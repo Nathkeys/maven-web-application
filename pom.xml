@@ -105,7 +105,7 @@
 	      <url>http://localhost:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement>
+	</distributionManagement
 	
 	<build>
 		<finalName>paypal</finalName>
